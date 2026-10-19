@@ -1,0 +1,15 @@
+.venv/
+backend/.venv/
+backend/data/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/*.pyo
+**/.mypy_cache/
+**/*.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db
